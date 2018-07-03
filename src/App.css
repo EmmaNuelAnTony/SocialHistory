@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+  align-content: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 0.25s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 200px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  margin-left: 2in;
+  padding: 20px;
+
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.CardView{
+ 
+  
+  width: 80% !important;
+ 
+
+}
+.Cardly{
+  font-size: 10px;
+ 
+  height:auto;
+ 
+}
+.Field{
+  
+  
+  text-align: center;
+  margin-right:5cm;
+  margin-top: 1cm;
+  font-size: 12px !important;
+  margin-left:1cm;
+  margin-bottom: 1cm; 
+}
+.CardView label{
+  margin-left: .5cm;
+  text-align: left;
+  margin-top: 0.5cm;
+  font-size: 25px;
+  color:#0bd1b5;
+
+}
+.Label_scemantic{
+  text-align:right;
+  margin-right: 1.6cm;
+  margin-top: 1cm;
+  font-size: 12px !important;
+  margin-left:0.25cm;
+  margin-bottom: 1cm;
+}
+.Button_socialHistory{
+  margin-top: 5cm;
+  margin-bottom: 1cm;
+}
